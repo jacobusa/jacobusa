@@ -1,4 +1,10 @@
-### Hi there 👋
+<div align="center">
+  
+  ## 💻 My Tech Stack
+  
+  [![My Skills](https://skillicons.dev/icons?i=ts,react,graphql,nextjs,nodejs,vite,aws,githubactions,kubernetes)](https://skillicons.dev)
+
+</div>
 
 <!--
 **jacobusa/jacobusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
